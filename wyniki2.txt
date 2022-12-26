@@ -1,0 +1,18 @@
+Wyniki lotto powtorzyly sie w datach: 
+16.02.2019
+18.02.2019
+26.02.2019
+6 liczb, ktore sie powtorzyly najrzadziej: 
+Liczba 49 powtorzyla sie 722 razy
+Liczba 48 powtorzyla sie 686 razy
+Liczba 47 powtorzyla sie 712 razy
+Liczba 44 powtorzyla sie 728 razy
+Liczba 12 powtorzyla sie 705 razy
+Liczba 43 powtorzyla sie 689 razy
+6 liczb, ktore sie powtorzyly najczesciej: 
+Liczba 27 powtorzyla sie 804 razy
+Liczba 24 powtorzyla sie 805 razy
+Liczba 21 powtorzyla sie 813 razy
+Liczba 17 powtorzyla sie 819 razy
+Liczba 4 powtorzyla sie 804 razy
+Liczba 34 powtorzyla sie 826 razy
